@@ -15,10 +15,10 @@ Subscription and budget management
 
 ## 🎥 Live Demo
 
-👉 [![Watch Expenso Demo](https://img.youtube.com/vi/rRMAhOQKmdQ/maxresdefault.jpg)](https://youtu.be/rRMAhOQKmdQ)
+👉 Demo Video: [![Watch Expenso Demo](https://img.youtube.com/vi/rRMAhOQKmdQ/maxresdefault.jpg)](https://youtu.be/rRMAhOQKmdQ)
 
 
-👉 Try the app LIVE on your phones (Android or iOS)
+👉 Try the app LIVE on your phones (Android or iOS):
 
 [naviAI-v1.apk](https://drive.google.com/file/d/1GBOuWtvk98oH7LQbsXDhBBVlXasNCbsJ/view?usp=sharing)
 

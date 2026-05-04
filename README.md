@@ -13,12 +13,27 @@ Subscription and budget management
 
 ---
 
-## 🎥 Live Demo
+## 🎥 Live Demo Video
 
-👉 Demo Video: [![Watch Expenso Demo](https://img.youtube.com/vi/rRMAhOQKmdQ/maxresdefault.jpg)](https://youtu.be/rRMAhOQKmdQ)
+<a href="https://youtu.be/rRMAhOQKmdQ">
+  <img src="https://img.youtube.com/vi/rRMAhOQKmdQ/maxresdefault.jpg" width="700"/>
+</a>
 
+<p align="center"><b>▶️ Click to watch demo</b></p>
 
-👉 Try the app LIVE on your phones (Android or iOS): [naviAI-v1.apk](https://drive.google.com/file/d/1GBOuWtvk98oH7LQbsXDhBBVlXasNCbsJ/view?usp=sharing)
+---
+
+## 📱 Try It Yourself
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1GBOuWtvk98oH7LQbsXDhBBVlXasNCbsJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download%20APK-Expenso%20Demo-6C63FF?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⚡ Setup time: <b>< 30 seconds</b> &nbsp; • &nbsp; 📶 Works offline &nbsp; • &nbsp; 🎤 Voice-first
+</p>
 
 ⏱ Setup time: < 30 seconds  
 📶 Works offline (core features)  

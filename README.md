@@ -1,4 +1,21 @@
 
+## 📱 Try It Yourself
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1GBOuWtvk98oH7LQbsXDhBBVlXasNCbsJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download%20APK-naviAI%20Demo-6C63FF?style=for-the-badge&logo=android&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⚡ Setup time: <b>< 30 seconds</b> &nbsp; • &nbsp; 📶 Works offline &nbsp; • &nbsp; 🎤 Voice-first 
+</p>
+
+<p align="center">
+App Size: 75.2 MB
+</p>
+
+
 # Expenso-nivaAI: Voice-Native Financial Agent
 
 nivaAI is a voice-first financial system designed to prove that small models can deliver real-world utility.
@@ -21,22 +38,6 @@ Subscription and budget management
 
 
 ---
-
-## 📱 Try It Yourself
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1GBOuWtvk98oH7LQbsXDhBBVlXasNCbsJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download%20APK-naviAI%20Demo-6C63FF?style=for-the-badge&logo=android&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  ⚡ Setup time: <b>< 30 seconds</b> &nbsp; • &nbsp; 📶 Works offline &nbsp; • &nbsp; 🎤 Voice-first 
-</p>
-
-<p align="center">
-App Size: 75.2 MB
-</p>
 
 
 # Models Used:

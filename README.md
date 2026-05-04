@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1GBOuWtvk98oH7LQbsXDhBBVlXasNCbsJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download%20APK-naviAI%20Demo-6C63FF?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download%20APK-nivaAI%20Demo-6C63FF?style=for-the-badge&logo=android&logoColor=white"/>
   </a>
 </p>
 

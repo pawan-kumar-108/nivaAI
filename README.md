@@ -112,9 +112,9 @@ graph TB
     UI --> Providers
     Providers --> ML
     Providers --> TE
-    TE --> Llama 3.0
+    TE --> Llama
     TE --> VAPI
-    VAPI --> Gemini 2.0 Flash
+    VAPI --> Gemini
     VAPI --> DG
     VAPI --> EL
     TE --> FF
